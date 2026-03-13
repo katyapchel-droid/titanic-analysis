@@ -1,5 +1,3 @@
-# Titanic Survival Analysis
-
 > Исследовательский анализ данных о пассажирах Титаника
 
 ## Датасет
@@ -7,7 +5,7 @@
 - Записей: 891 пассажир
 - Целевая переменная: `Survived` (0/1)
 
-## 🛠 Технологии
+## Технологии
 - Python 3
 - pandas, numpy, matplotlib, seaborn
 - Google Colab
